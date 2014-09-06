@@ -3,7 +3,7 @@ package com.iitk.youtube.test;
 import java.util.List;
 import java.util.Scanner;
 
-import com.iitk.youtube.YouTubeManager;
+import com.iitk.youtube.Manager.YouTubeManager;
 import com.iitk.youtube.model.YouTubeVideo;
 
 public class YouTubeTester {
